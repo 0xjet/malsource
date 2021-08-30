@@ -1,0 +1,945 @@
+name,language,files,blank_lines,comments,SLOCs,year
+808,Assembly,1,72,10,226,1991
+ACME,Assembly,1,60,53,182,1992
+AIDS,Pascal,1,12,15,107,1989
+Alina,C,2,69,8,491,2013
+Alina,PHP,9,140,2,633,2013
+Alina,C/C++ Header,9,72,0,289,2013
+Alina,C++,10,353,24,1600,2013
+Alina,SQL,1,19,30,112,2013
+Alina,DOS Batch,1,4,0,18,2013
+Anaphylaxis,Assembly,1,185,218,937,1998
+Anarxy,make,1,4,0,17,2001
+Anarxy,DOS Batch,1,0,0,1,2001
+Anarxy,Assembly,1,1444,221,5610,2001
+Anarxy,Windows Module Definition,1,5,0,7,2001
+Androrat,XML,7,47,41,197,2012
+Androrat,Java,104,2448,894,10538,2012
+ANIMAL,Assembly,1,2,645,1089,1975
+Antares,Assembly,2,303,625,3446,2007
+Anthrax,Assembly,1,23,34,393,1990
+Apocalyptic,Assembly,1,120,90,467,1996
+Asexual,Assembly,1,123,103,636,1993
+Assiral,C++,1,38,1,476,2005
+Babylon,Assembly,5,213,95,2926,1999
+Badbrains,Assembly,1,64,14,198,1991
+Batvir,Assembly,1,44,12,181,1994
+BatzBack,C,1,46,28,3092,2008
+Beagle,Windows Resource File,1,0,0,1,2004
+Beagle,Assembly,27,1216,488,5476,2004
+Beavis,Assembly,1,112,22,247,1993
+Beetle,C/C++ Header,8,52,12,3882,2013
+Beetle,make,1,1,0,15,2013
+Beetle,C++,8,355,273,2947,2013
+BeGemot,Assembly,1,166,214,5910,1999
+Blackhand,Assembly,9,305,528,2114,2005
+Blaster,C++,1,231,489,631,2003
+Bluelightening,DOS Batch,1,1,0,7,1995
+Bluelightening,Assembly,2,118,120,758,1995
+Bluelightening,Windows Module Definition,2,0,0,10,1995
+Bluenine,Assembly,1,96,18,462,1994
+BO2K,Windows Resource File,4,206,185,1455,2007
+BO2K,C/C++ Header,116,1705,2222,4482,2007
+BO2K,C,1,55,20,153,2007
+BO2K,C++,77,5367,3424,21939,2007
+BO2K,Windows Module Definition,8,0,0,40,2007
+Bvs,Visual Basic,1,0,0,81,1987
+Cabanas,Assembly,1,373,673,1596,1997
+Cairuh,C,7,74,24,23180,2009
+Cairuh,DOS Batch,1,0,0,11,2009
+Carberp,C/C++ Header,41,2675,8704,10977,2010
+Carberp,MSBuild script,4,0,0,2251,2010
+Carberp,Windows Module Definition,1,0,0,1,2010
+Carberp,C++,41,3875,2270,14070,2010
+Caribe,C/C++ Header,8,131,38,255,2004
+Caribe,DOS Batch,1,4,2,9,2004
+Caribe,C++,7,256,89,579,2004
+Ch0lera,C/C++ Header,1,67,6,1410,1998
+Ch0lera,C,1,200,158,871,1998
+Chainsaw,DOS Batch,1,0,0,4,2000
+Chainsaw,Assembly,1,325,331,931,2000
+CIA,Assembly,1,35,4,202,1989
+Combat,Assembly,1,10,46,86,1996
+CSV,make,2,12,42,26,1997
+CSV,HTML,1,15,0,120,1997
+CSV,Assembly,10,253,121,1257,1997
+CSV,DOS Batch,1,0,0,1,1997
+DarkApocalypse,Assembly,1,161,19,380,1993
+Demiurg,Assembly,1,397,434,2802,1999
+Demonhyak,Assembly,1,12,10,102,1991
+Dendroid,XML,11,26,15,319,2014
+Dendroid,MSBuild script,1,0,7,126,2014
+Dendroid,Java,12,389,581,4136,2014
+Dendroid,ASP.Net,1,0,0,23,2014
+Dendroid,Javascript,6,486,337,1279,2014
+Dendroid,DOS Batch,1,0,0,3,2014
+Dendroid,SQL,1,7,0,41,2014
+Dendroid,Visual Basic,7,201,218,1811,2014
+Dendroid,PHP,30,235,6,2020,2014
+Dendroid,CSS,4,678,20,4003,2014
+Dexter,C,8,700,232,1562,2012
+Dexter,MSBuild script,1,0,0,328,2012
+Dexter,C/C++ Header,3,28,30,115,2012
+Dexter,SQL,1,24,37,52,2012
+Dexter,PHP,11,181,83,615,2012
+Dexter,CSS,1,6,0,29,2012
+Diamond,Assembly,1,2,22,510,1990
+Dichotomy,Assembly,1,25,18,296,1994
+Digitisedparasite,Assembly,1,141,66,430,1994
+Dream,Assembly,1,62,226,1556,2000
+DW,C,2,27,0,70,2002
+DW,DOS Batch,4,3,0,16,2002
+DW,Assembly,30,1190,490,4250,2002
+Eddie,Assembly,1,86,100,827,1989
+Efishnc,DOS Batch,1,2,0,14,2002
+Efishnc,Assembly,2,406,364,2441,2002
+Egypt,Assembly,1,291,313,1863,2005
+ElkCloner,Assembly,1,0,0,400,1982
+Energy,Assembly,1,77,124,526,2000
+Eternity,Assembly,1,189,474,344,2005
+Examplo,DOS Batch,1,0,0,5,2000
+Examplo,Assembly,2,152,93,492,2000
+Fabi2,Visual Basic,1,0,1,117,1999
+Fabi2,Assembly,1,76,14,1214,1999
+Friendly,Assembly,2,55,28,796,2005
+Galicia,Visual Basic,1,4,23,19,1996
+Gemini,DOS Batch,1,2,0,14,2002
+Gemini,Assembly,2,224,266,1366,2002
+GhostRAT,C/C++ Header,105,1987,3508,7717,2007
+GhostRAT,make,1,1,5,1,2007
+GhostRAT,C,1,21,10,117,2007
+GhostRAT,C++,85,4969,6328,24164,2007
+GhostRAT,Windows Module Definition,1,2,3,2,2007
+GhostRAT,Windows Resource File,6,147,158,717,2007
+GhostRAT,HTML,1,51,4,443,2007
+GhostRAT,DOS Batch,1,5,0,9,2007
+Gift,C,1,50,31,170,1998
+Gopnik,C#,83,2260,1305,17386,2014
+Gopnik,XML,1,5,0,4249,2014
+Grifin,Assembly,2,927,221,2867,2002
+Gripb,C,1,3,5,47,2005
+Gripb,Assembly,14,155,227,1215,2005
+Gripb,make,2,10,14,34,2005
+Grum,XML,2,0,0,29,2008
+Grum,C/C++ Header,43,58,0,686,2008
+Grum,MSBuild script,1,0,0,214,2008
+Grum,XSLT,1,28,2,202,2008
+Grum,C++,1,316,479,2236,2008
+Grum,DOS Batch,1,0,2,2,2008
+Grum,SQL,2,43,61,361,2008
+Grum,PHP,45,778,178,2860,2008
+Grum,CSS,1,0,0,207,2008
+Gurdof,Pascal,1,21,68,85,2006
+Harrier,Assembly,1,254,171,3325,1997
+Hexbot2,C,2,373,32,24310,2009
+Hexbot2,DOS Batch,1,1,0,12,2009
+Hexbot2,C/C++ Header,1,11,10,59,2009
+Hidan,DOS Batch,1,2,0,16,2005
+Hidan,Assembly,2,152,195,937,2005
+Icecubes,Windows Resource File,1,16,0,72,2000
+Icecubes,Assembly,4,668,525,3702,2000
+IISWorm,C,1,33,20,187,1999
+ILOVEYOU,Visual Basic,1,11,0,197,2000
+Jollyroger,C,10,891,399,4544,2004
+Jollyroger,Assembly,5,347,485,2743,2004
+Jollyroger,C/C++ Header,9,127,99,311,2004
+Jollyroger,C++,1,7,84,17,2004
+Jollyroger,Windows Module Definition,1,2,0,2,2004
+Junkmail,Assembly,3,547,524,3391,2002
+Jupiter,Assembly,1,37,36,165,1996
+Kekule,Assembly,1,27,21,99,2006
+Ketamine,Assembly,1,85,4,458,2001
+KINS,XML,1,0,0,1,2011
+KINS,C/C++ Header,80,6526,4896,35003,2011
+KINS,Python,1,101,7,453,2011
+KINS,Javascript,31,2419,1430,13492,2011
+KINS,C++,74,4817,3229,24163,2011
+KINS,Windows Resource File,1,5,11,39,2011
+KINS,HTML,25,447,1,2655,2011
+KINS,PHP,45,1506,1012,11600,2011
+KINS,CSS,9,184,140,2054,2011
+Kroshkaenot,DOS Batch,1,0,0,4,2005
+Kroshkaenot,Assembly,17,177,672,2823,2005
+Lexotan,make,1,5,0,13,2002
+Lexotan,Assembly,18,873,100,4267,2002
+Macbet,Pascal,1,27,25,283,2006
+Macbet,DOS Batch,1,0,0,2,2006
+Marburg,Assembly,1,853,703,2045,1998
+Mars,Assembly,1,69,41,529,1996
+Melissa,Visual Basic,1,1,4,95,1999
+Milennium,Assembly,1,149,257,1126,2000
+Mimail,C,9,382,230,1451,2003
+Mimail,DOS Batch,1,0,0,8,2003
+MorrisWorm,C,7,302,281,2401,1988
+MorrisWorm,C/C++ Header,1,9,11,33,1988
+MorrisWorm,make,1,5,3,14,1988
+Mworm,make,1,2,0,12,2001
+Mworm,C,9,511,208,2204,2001
+Mworm,C/C++ Header,2,19,12,184,2001
+Mworm,Bourne Shell,3,6,0,22,2001
+Mydoom,Windows Resource File,1,0,0,2,2004
+Mydoom,C,15,540,130,3116,2004
+Mydoom,C/C++ Header,8,20,1,68,2004
+Mydoom,C++,1,10,0,45,2004
+Mydoom,make,2,2,1,47,2004
+Nakedtruth,Assembly,1,40,53,152,1993
+Nanomites,Assembly,11,254,691,3432,2005
+Nemesi,Assembly,1,442,102,685,1999
+Netsky,C/C++ Header,10,161,59,501,2004
+Netsky,HTML,1,290,15,931,2004
+Netsky,C++,7,269,72,1075,2004
+Nicole,Assembly,2,114,55,3766,2001
+Numberone,Pascal,1,12,31,79,1987
+Obsidian,Assembly,1,143,173,703,2003
+OmegaRat,Visual Basic,43,1233,9474,6812,2014
+Omoikane,Assembly,2,276,149,1834,2002
+OU812,DOS Batch,1,2,0,14,2001
+OU812,Assembly,2,167,234,999,2001
+PC-RAT,Windows Resource File,3,93,91,420,2011
+PC-RAT,C/C++ Header,9,33,119,393,2011
+PC-RAT,C++,14,939,498,6048,2011
+PGPMorf2,Pascal,1,0,0,4,1998
+PGPMorf2,DOS Batch,2,1,0,12,1998
+PGPMorf2,Assembly,1,567,128,1738,1998
+PieceByPiece,C,1,110,71,696,2002
+Pilif,Javascript,12,163,58,1845,2004
+Pilif,Visual Basic,3,62,136,487,2004
+Pilif,HTML,13,399,454,5386,2004
+Pilif,CSS,12,145,30,892,2004
+Plague2000,C,1,57,76,306,1998
+Plexar,Assembly,1,573,168,2451,2001
+Pony2,C,1,65,43,563,2013
+Pony2,DOS Batch,3,31,6,104,2013
+Pony2,Assembly,6,3249,1404,13819,2013
+Pony2,Javascript,7,56,572,1179,2013
+Pony2,C/C++ Header,1,29,79,41,2013
+Pony2,Windows Resource File,2,0,0,133,2013
+Pony2,Pascal,16,1570,2093,9873,2013
+Pony2,HTML,1,0,0,10,2013
+Pony2,PHP,157,8205,9692,62822,2013
+Pony2,CSS,4,74,167,1214,2013
+Prizzy,Assembly,1,903,976,4167,1999
+Proto-t,Assembly,1,66,71,283,1992
+Pupy,C,19,810,995,3400,2015
+Pupy,Python,63,1467,2156,7167,2015
+Pupy,C/C++ Header,15,145,276,516,2015
+Pupy,C++,1,131,139,620,2015
+Pupy,DOS Batch,2,13,0,78,2015
+Pupy,Bourne Shell,1,0,0,2,2015
+Rainbow,PHP,1,20,0,108,2003
+Ramlide,Assembly,1,181,18,639,2002
+Rammstein,DOS Batch,1,2,0,4,2000
+Rammstein,Assembly,5,768,333,5422,2000
+Rat,Assembly,1,149,321,458,1992
+RCE285,Assembly,1,7,165,219,1995
+RedTeam,make,1,7,3,13,1997
+RedTeam,HTML,1,29,0,213,1997
+RedTeam,Assembly,8,128,331,1499,1997
+RedTeam,Windows Module Definition,1,4,0,7,1997
+Rinim,Assembly,1,36,53,158,1999
+RousSarcoma,Assembly,1,366,286,1157,1999
+Rovnix,C,116,9228,16952,53860,2014
+Rovnix,MSBuild script,17,0,0,3854,2014
+Rovnix,Assembly,3,417,432,1573,2014
+Rovnix,DOS Batch,1,4,1,13,2014
+Rovnix,make,1,1,5,1,2014
+Rovnix,C/C++ Header,131,4212,6815,18654,2014
+Rovnix,C++,1,161,22,600,2014
+Rovnix,Windows Module Definition,2,1,8,20,2014
+Rovnix,Windows Resource File,2,44,52,130,2014
+Rovnix,Pascal,1,25,0,121,2014
+Rovnix,PHP,1,1182,0,21092,2014
+Rudra,Assembly,1,413,149,1268,2001
+Rushrour,Assembly,1,34,54,206,1986
+Sasser,C,3,232,103,949,2004
+Seraph,Assembly,1,330,497,2022,2003
+SharpBot,XML,1,0,0,3028,2013
+SharpBot,C#,2,47,42,513,2013
+SharpBot,MSBuild script,1,0,7,101,2013
+Shiver,Visual Basic,1,87,5,304,1998
+Shrug,DOS Batch,2,4,0,28,2004
+Shrug,Assembly,4,340,404,1965,2004
+Simile,Assembly,1,954,2043,10917,2002
+Solaris,Assembly,1,286,368,1323,2002
+Spieluhr,Pascal,4,70,113,287,2005
+SpyNet,Windows Resource File,12,0,0,12,2014
+SpyNet,DOS Batch,3,18,4,158,2014
+SpyNet,Pascal,292,28753,32033,177999,2014
+SpyNet,HTML,4,535,53,1294,2014
+SpyNet,C++,13,103,50,219,2014
+Staog,Assembly,1,92,0,754,1996
+Ston,Assembly,1,43,20,182,2006
+Tahorg,make,2,9,1,29,2003
+Tahorg,Assembly,9,105,87,796,2003
+Taichi,C/C++ Header,1,0,0,135,2002
+Taichi,Assembly,8,779,307,3906,2002
+Taichi,make,2,5,7,22,2002
+Taichi,C,1,27,1,111,2002
+Taichi,Windows Module Definition,2,5,0,20,2002
+Taichi,Windows Resource File,1,3,0,9,2002
+Taichi,DOS Batch,1,0,0,5,2002
+Tapakan,Assembly,12,76,279,3241,2001
+Teocatl,Visual Basic,1,2,1,3076,1998
+Thunderbyte,Assembly,1,29,7,570,1992
+Tinba,Javascript,1,1630,1254,6382,2014
+Tinba,Assembly,103,2406,1027,5193,2014
+Tinba,PHP,64,731,61,2485,2014
+Tinba,CSS,2,218,43,463,2014
+Tormentor,Assembly,1,75,64,404,1991
+Troodon,Windows Resource File,1,1,0,30,2000
+Troodon,DOS Batch,1,0,0,6,2000
+Troodon,Assembly,4,921,276,14693,2000
+Tuareg,Assembly,1,467,1298,5906,2000
+V6000,Assembly,1,149,113,2964,1997
+Vampiro,Assembly,1,355,255,3433,2002
+Virus11,Assembly,1,17,135,202,1986
+W2KInstaller,Assembly,1,63,581,583,2000
+WrathRage,ASP,1,0,0,8,2005
+WrathRage,C/C++ Header,3,1396,102,4554,2005
+WrathRage,MSBuild script,1,0,0,143,2005
+WrathRage,HTML,1,0,0,40,2005
+WrathRage,C++,3,71,238,990,2005
+XTC,Assembly,1,279,209,1973,2000
+YLANG,Assembly,1,482,130,397,1999
+Yobe,Assembly,1,75,218,746,1999
+Zelda,Visual Basic,1,5,2,183,2000
+Zelda,Assembly,1,57,39,264,2000
+Zeus,XML,2,0,0,2,2007
+Zeus,C/C++ Header,73,5744,4829,24116,2007
+Zeus,DOS Batch,4,1,0,17,2007
+Zeus,Javascript,1,8,0,36,2007
+Zeus,C++,82,4740,3429,24314,2007
+Zeus,Windows Resource File,1,5,12,60,2007
+Zeus,HTML,5,92,64,1591,2007
+Zeus,PHP,80,2314,2200,11415,2007
+Zeus,CSS,1,30,0,201,2007
+ZMist,C/C++ Header,4,44,19,324,2002
+ZMist,DOS Batch,1,1,0,4,2002
+ZMist,C++,2,200,44,1014,2002
+Andromeda,PHP,11,49,1,322,2014
+Andromeda,CSS,2,0,0,2,2014
+AryanRAT,Windows Resource File,2,92,70,682,2010
+AryanRAT,C/C++ Header,10,84,164,747,2010
+AryanRAT,C++,5,1781,1073,10444,2010
+Athena,C/C++ Header,6,124,181,633,2015
+Athena,Javascript,1,3,0,87,2015
+Athena,C++,70,2380,2008,9879,2015
+Athena,SQL,1,15,0,103,2015
+Athena,PHP,23,302,41,1925,2015
+Athena,CSS,2,8,8,428,2015
+BshadesFusion,Visual Basic,8,355,103,1852,2012
+BshadesFusion,PHP,9,84,26,374,2012
+CyberBotv2.2,C/C++ Header,42,191,66,1225,2006
+CyberBotv2.2,Bourne Shell,1,3,0,18,2006
+CyberBotv2.2,C++,34,1332,335,6754,2006
+DBotv3.1,Windows Resource File,1,0,0,1,2007
+DBotv3.1,C/C++ Header,18,115,153,412,2007
+DBotv3.1,C,2,44,12,392,2007
+DBotv3.1,C++,11,622,427,3294,2007
+DBotv3.1,Bourne Shell,1,3,0,18,2007
+Dokan,C,35,2614,1212,6788,2008
+Dokan,make,3,6,15,5,2008
+Dokan,C/C++ Header,8,559,192,1397,2008
+Dokan,Windows Module Definition,1,3,0,9,2008
+Dokan,Windows Resource File,1,3,0,8,2008
+Dokan,DOS Batch,2,5,0,4,2008
+Dokan,Bourne Shell,1,3,0,18,2008
+DopeBot.A,C,1,37,14,534,2004
+DopeBot.A,make,1,1,5,1,2004
+DopeBot.A,C/C++ Header,34,168,588,517,2004
+DopeBot.A,C++,31,599,853,4090,2004
+DopeBot.A,Windows Resource File,1,0,0,2,2004
+DopeBot.A,Bourne Shell,1,3,0,18,2004
+DopeBot.B,C,1,37,14,534,2004
+DopeBot.B,make,1,1,5,1,2004
+DopeBot.B,C/C++ Header,34,168,588,517,2004
+DopeBot.B,C++,31,599,853,4090,2004
+DopeBot.B,Windows Resource File,1,0,0,2,2004
+DopeBot.B,Bourne Shell,1,3,0,18,2004
+DopeBotv0.22_Crippled,Windows Resource File,1,0,0,2,2007
+DopeBotv0.22_Crippled,C/C++ Header,40,144,316,634,2007
+DopeBotv0.22_Crippled,Bourne Shell,1,3,0,18,2007
+DopeBotv0.22_Crippled,C++,36,740,719,5722,2007
+DopeBotv0.22_UnCrippled,Windows Resource File,1,0,0,2,2007
+DopeBotv0.22_UnCrippled,C/C++ Header,40,144,316,634,2007
+DopeBotv0.22_UnCrippled,Bourne Shell,1,3,0,18,2007
+DopeBotv0.22_UnCrippled,C++,36,740,719,5722,2007
+EngRat.0.1.0,XML,1,0,0,28,2015
+EngRat.0.1.0,Visual Basic,53,473,1067,9326,2015
+EngRat.0.1.0,MSBuild script,2,0,14,443,2015
+ExploitKit.0x88,PHP,38,1682,154,30775,2014
+ExploitKit.0x88,Assembly,3,148,31,503,2014
+ExploitKit.0x88,Javascript,3,0,0,31,2014
+ExploitKit.0x88,HTML,5,25,6,137,2014
+ExploitKit.0x88,SQL,1,25,35,187,2014
+ExploitKit.0x88,DOS Batch,6,1,0,40,2014
+ExploitKit.0x88,CSS,1,2,0,44,2014
+ExploitKit.BlackHole.100,Javascript,1,0,27,1042,2012
+ExploitKit.BlackHole.100,PHP,61,15,3,7465,2012
+ExploitKit.BlackHole.100,CSS,2,14,0,85,2012
+ExploitKit.BlackHole.102,Javascript,1,0,27,1042,2012
+ExploitKit.BlackHole.102,PHP,61,15,3,7465,2012
+ExploitKit.BlackHole.102,CSS,2,14,0,85,2012
+ExploitKit.BleedingLife.2,Javascript,1,1,0,475,2010
+ExploitKit.BleedingLife.2,PHP,32,255,85,3209,2010
+ExploitKit.BleedingLife.2,CSS,1,36,2,245,2010
+ExploitKit.CrimePack.3.1.3,HTML,1,0,0,1,2011
+ExploitKit.CrimePack.3.1.3,Javascript,1,3,0,59,2011
+ExploitKit.CrimePack.3.1.3,PHP,31,8,47,8347,2011
+ExploitKit.CrimePack.3.1.3,Bourne Shell,1,1,0,6,2011
+ExploitKit.CrimePack.3.1.3,CSS,1,10,0,86,2011
+ExploitKit.Eleonore.1.4.4,Javascript,3,36,0,114,2014
+ExploitKit.Eleonore.1.4.4,PHP,18,759,100,3623,2014
+ExploitKit.Eleonore.1.4.4,CSS,1,101,45,111,2014
+ExploitKit.Fragus,Javascript,22,0,271,384,2009
+ExploitKit.Fragus,PHP,43,1162,364,8635,2009
+ExploitKit.Fragus,CSS,19,93,131,910,2009
+ExploitKit.Fragus,SQL,1,6,0,30,2009
+ExploitKit.Phoenix.2.5,PHP,17,456,75,2320,2011
+ExploitKit.Phoenix.2.5,HTML,11,36,0,51,2011
+ExploitKit.RIG,XML,1,10,0,104,2014
+ExploitKit.RIG,Javascript,418,30681,25541,139395,2014
+ExploitKit.RIG,JSON,35,0,0,2300,2014
+ExploitKit.RIG,HTML,246,2583,658,29027,2014
+ExploitKit.RIG,SQL,1,16,0,7099,2014
+ExploitKit.RIG,PHP,78,2327,3444,10129,2014
+ExploitKit.RIG,CSS,59,1890,675,13635,2014
+ExploitKit.Sakura,PHP,16,227,17,1886,2012
+ExploitKit.Sakura,CSS,1,9,0,80,2012
+ExploitKit.Sava,HTML,4,0,0,20,2011
+ExploitKit.Sava,Javascript,4,65,105,891,2011
+ExploitKit.Sava,PHP,47,14,0,68,2011
+ExploitKit.Sava,CSS,1,104,38,128,2011
+HellBotv3.0,C,7,415,92,2423,2005
+HellBotv3.0,C/C++ Header,21,133,71,602,2005
+HellBotv3.0,C++,13,345,671,1800,2005
+HellBotv3.0,Bourne Shell,1,3,0,18,2005
+KINS,XML,1,0,0,1,2011
+KINS,C/C++ Header,80,6526,4896,35003,2011
+KINS,Python,1,101,7,453,2011
+KINS,Javascript,31,2419,1430,13492,2011
+KINS,C++,74,4817,3229,24163,2011
+KINS,Windows Resource File,1,5,11,39,2011
+KINS,HTML,25,447,1,2655,2011
+KINS,PHP,45,1506,1012,11600,2011
+KINS,CSS,9,184,140,2054,2011
+LiquidBot,C/C++ Header,49,191,100,2513,2005
+LiquidBot,Bourne Shell,1,3,0,18,2005
+LiquidBot,C++,40,1645,626,8181,2005
+LoexBot1.3,C/C++ Header,53,200,126,1418,2008
+LoexBot1.3,DOS Batch,2,1,0,7,2008
+LoexBot1.3,C,1,22,17,79,2008
+LoexBot1.3,C++,47,1893,1082,10012,2008
+LoexBot1.3,Bourne Shell,1,3,0,18,2008
+Mazar,XML,3,0,0,491,2016
+Mazar,Python,39,679,688,3513,2016
+Mazar,Javascript,11,1025,801,6952,2016
+Mazar,HTML,36,340,49,2541,2016
+Mazar,PHP,10,162,57,912,2016
+Mazar,Bourne Shell,2,5,0,11,2016
+Mazar,CSS,4,1480,52,6058,2016
+Mirai,Go,9,123,20,1144,2016
+Mirai,C,24,1275,253,7266,2016
+Mirai,C/C++ Header,16,128,16,660,2016
+Mirai,Bourne Shell,3,6,0,61,2016
+MyDoom.A,C,15,540,130,3116,2004
+MyDoom.A,make,2,2,1,47,2004
+MyDoom.A,C/C++ Header,8,20,1,68,2004
+MyDoom.A,C++,1,10,0,45,2004
+MyDoom.A,Windows Resource File,1,0,0,2,2004
+MyDoom.A,Bourne Shell,1,3,0,18,2004
+NBot,C/C++ Header,48,632,766,2447,2008
+NBot,Bourne Shell,1,3,0,18,2008
+NBot,C++,33,947,220,4625,2008
+NullBot,C/C++ Header,16,74,63,389,2006
+NullBot,C,1,3,10,80,2006
+NullBot,C++,15,455,289,2981,2006
+NullBot,Bourne Shell,1,3,0,18,2006
+PlasmaHTTP,XML,3,0,0,84,2014
+PlasmaHTTP,Visual Basic,35,483,271,3333,2014
+PlasmaHTTP,MSBuild script,2,0,14,274,2014
+PowerLoader,Javascript,3,6,21,91,2013
+PowerLoader,C/C++ Header,18,966,740,15974,2013
+PowerLoader,PHP,13,403,81,6241,2013
+PowerLoader,CSS,1,48,8,264,2013
+PowerLoader,C++,10,526,78,2345,2013
+rBot0.3.3,C/C++ Header,70,244,130,2905,2004
+rBot0.3.3,Bourne Shell,1,3,0,18,2004
+rBot0.3.3,C++,61,2076,588,10569,2004
+Rubilyn,C,2,57,59,698,2014
+Rubilyn,C/C++ Header,1,51,102,281,2014
+ShadowBot,C/C++ Header,5,84,26,693,2008
+ShadowBot,Bourne Shell,1,3,0,18,2008
+ShadowBot,C++,4,76,67,711,2008
+ShadowBotv3,C/C++ Header,4,67,13,317,2007
+ShadowBotv3,Bourne Shell,1,3,0,18,2007
+ShadowBotv3,C++,5,187,36,2253,2007
+SpazBot2.12,Windows Resource File,1,0,0,2,2007
+SpazBot2.12,Visual Basic,32,1801,1535,8494,2007
+SpazBot2.12,Bourne Shell,1,3,0,18,2007
+TinyBanker,Pascal,16,363,33,760,2012
+TinyBanker,Javascript,1,1630,1254,6382,2012
+TinyBanker,Assembly,6,79,29,285,2012
+TinyBanker,PHP,64,731,61,2485,2012
+TinyBanker,CSS,2,218,43,463,2012
+v0lk,HTML,1,1,0,9,2005
+v0lk,Visual Basic,13,103,120,420,2005
+v0lk,Javascript,3,832,637,3198,2005
+v0lk,PHP,34,425,813,2320,2005
+v0lk,CSS,1,5,0,104,2005
+vbBot,Visual Basic,11,162,228,2101,2005
+vbBot,Bourne Shell,1,3,0,18,2005
+VBS.Win32.Vabian,Visual Basic,1,25,1,201,2007
+VBS.Win32.Vabian,Bourne Shell,1,3,0,18,2007
+Win32.MiniPig,C,1,42,65,188,2006
+Win32.MiniPig,Bourne Shell,1,3,0,18,2006
+Win32.ogw0rm,C/C++ Header,11,4,0,67,2008
+Win32.ogw0rm,Bourne Shell,1,3,0,18,2008
+Win32.ogw0rm,C++,10,75,6,313,2008
+Win32.Remhead,Windows Resource File,1,23,26,57,2014
+Win32.Remhead,C/C++ Header,38,1569,6997,5279,2014
+Win32.Remhead,C,34,907,549,4288,2014
+X0R-USB,C,4,828,280,5168,2009
+X0R-USB,DOS Batch,2,0,0,2,2009
+X0R-USB,C/C++ Header,5,14,25,523,2009
+X0R-USB,C++,1,28,7,184,2009
+X0R-USB,Bourne Shell,1,3,0,18,2009
+xTBot0.0.2,C,1,3,10,80,2012
+xTBot0.0.2,C/C++ Header,2,7,7,61,2012
+xTBot0.0.2,C++,2,433,246,3127,2012
+xTBot0.0.2,Bourne Shell,1,3,0,18,2012
+XtremeRAT,Windows Resource File,2,0,0,17,2009
+XtremeRAT,Pascal,654,62662,108627,444715,2009
+XtremeRAT,C/C++ Header,11,447,1463,1737,2009
+XtremeRAT,C,17,1069,1858,6752,2009
+XtremeRAT,DOS Batch,5,28,0,146,2009
+Zemra,MSBuild script,1,0,0,38,2011
+Zemra,C#,18,119,1,1515,2011
+Zemra,Javascript,1,2,5,169,2011
+Zemra,HTML,1,0,0,13,2011
+Zemra,PHP,18,227,44,1553,2011
+Zemra,CSS,1,87,8,505,2011
+ZIB-Trojan,Python,5,97,190,5927,2015
+ZunkerBot1.4.5,Javascript,1,50,109,412,2007
+ZunkerBot1.4.5,HTML,1,13,0,183,2007
+ZunkerBot1.4.5,SQL,2,47,0,322,2007
+ZunkerBot1.4.5,PHP,30,3327,518,5891,2007
+ZunkerBot1.4.5,Bourne Shell,1,3,0,18,2007
+ZunkerBot1.4.5,CSS,4,14,16,710,2007
+1200,Assembly,1,32,14,271,1998
+2fu,Assembly,1,35,23,109,2005
+4096,Assembly,1,88,108,240,2003
+42,C,5,56,33,749,2008
+42,C/C++ Header,1,1,1,41,2008
+42,make,1,6,1,20,2008
+7son2,Assembly,1,61,26,145,1994
+7son4,Assembly,1,53,23,142,1994
+a443,Assembly,1,27,15,184,2002
+a443,Bourne Shell,1,0,0,4,2002
+acurev,Assembly,1,30,26,109,1998
+adhoca,C,1,25,11,163,2003
+adhoca,make,1,4,0,10,2003
+adhocb,C,4,27,16,174,2003
+adhocb,C/C++ Header,2,12,20,84,2003
+adhocb,make,1,6,4,31,2003
+aguilerab,DOS Batch,1,0,0,186,2002
+amon,Assembly,1,116,138,393,2004
+analbeeds,DOS Batch,1,2,0,5,2004
+analbeeds,Assembly,1,180,319,499,2004
+android,Assembly,4,48,110,736,1997
+annigilator,DOS Batch,2,0,0,4,2005
+annigilator,Assembly,2,1543,533,2531,2005
+anthrax_iac,Assembly,1,164,79,709,2008
+anticaro,Assembly,1,63,168,231,1996
+anunnaki,Pascal,3,470,2,1870,2009
+anunnaki,Assembly,1,55,120,193,2009
+arches,C,6,58,30,386,2006
+arches,Assembly,2,77,114,1114,2006
+arches,C/C++ Header,1,7,5,80,2006
+arches,make,2,9,8,40,2006
+arian,make,1,5,5,21,2006
+arian,Assembly,3,27,55,424,2006
+atix,DOS Batch,1,0,0,8,2010
+atix,Assembly,13,916,2369,4452,2010
+atomic,Assembly,1,57,6,194,1994
+avpaids,Assembly,1,27,84,216,1996
+babylonia,Assembly,1,198,8,2121,1999
+bagle,Windows Resource File,1,0,0,1,1994
+bagle,Assembly,26,1215,487,5473,1994
+balrog,Assembly,1,116,142,514,2004
+benny,Assembly,1,125,76,793,1999
+biennale,Python,1,4,3,40,2001
+binom,Assembly,1,262,207,501,2004
+blackbat,Assembly,1,168,879,889,1999
+blacky,Pascal,2,150,8,717,2005
+blacky,Assembly,1,44,81,761,2005
+blacky,C,1,11,9,79,2005
+bombast,Javascript,1,0,0,1,2011
+bonk32,Assembly,1,24,43,489,1998
+boobs,Assembly,1,458,48,1080,1997
+boundary,PHP,1,32,0,247,2006
+boundary,Assembly,1,235,205,1230,2006
+branko,C,1,17,53,196,2010
+breathe,Assembly,1,184,9,630,2006
+brundle,C/C++ Header,4,19,45,382,2001
+brundle,make,2,17,17,32,2001
+brundle,C,7,283,539,1153,2001
+brundle,m4,1,14,19,94,2001
+brundle,HTML,1,84,0,1041,2001
+brundle,Bourne Again Shell,1,7,7,40,2001
+brundle,Bourne Shell,4,273,296,1652,2001
+bullmoose,C,1,2,1,27,2009
+bullmoose,DOS Batch,1,0,0,1,2009
+bv3,Visual Basic,1,0,0,67,1987
+cairuhb,C,8,80,34,23281,2009
+cairuhb,DOS Batch,1,0,0,12,2009
+califax,C,6,54,65,772,1998
+califax,make,1,7,4,25,1998
+caline,C,1,94,63,182,2004
+caline,C/C++ Header,4,43,99,115,2004
+carcass,Assembly,1,353,51,633,1999
+carume,Assembly,1,87,48,246,2006
+cermalus,Assembly,1,189,208,2018,2007
+chaos-ad,Assembly,2,396,84,1601,1995
+charm,DOS Batch,1,2,0,14,2006
+charm,PHP,1,17,0,186,2006
+charm,Assembly,1,78,69,511,2006
+chthon,DOS Batch,1,2,0,14,2001
+chthon,PHP,1,42,0,283,2001
+chthon,Assembly,1,135,229,882,2001
+cih12,Assembly,1,351,517,612,1998
+cih13,Assembly,1,352,525,613,1998
+cih14,Assembly,1,358,550,625,1998
+cih15,Assembly,1,231,546,610,1998
+ciliophora,Pascal,1,25,0,84,2010
+ciliophora,Assembly,1,125,66,549,2010
+cjdisease,Assembly,1,1124,123,10855,2003
+cleevix,Assembly,1,119,84,514,2005
+clibo,C,1,5,7,71,2010
+clt,make,1,12,21,45,2006
+clt,Assembly,8,106,306,681,2006
+clt,Windows Module Definition,1,4,0,7,2006
+clt20,make,1,17,20,86,2013
+clt20,DOS Batch,2,0,0,4,2013
+clt20,Assembly,11,109,500,1451,2013
+clt20,Windows Module Definition,2,8,0,14,2013
+creed,Assembly,1,85,0,254,1999
+cris,Pascal,1,10,8,68,2006
+cris,DOS Batch,1,0,0,2,2006
+crossinfector,Perl,1,7,2,27,2005
+csmall,C,2,23,7,161,2003
+csmall,C/C++ Header,2,7,7,67,2003
+csmall,make,1,4,0,14,2003
+cyneox,Assembly,1,96,172,233,2004
+dammit,DOS Batch,1,2,0,6,2000
+dammit,Assembly,1,135,36,533,2000
+dataseg,C,1,52,152,151,2004
+delirium,Assembly,1,48,50,108,2002
+dido,Pascal,2,2,0,57,2001
+dido,Assembly,1,46,0,175,2001
+diesel,Assembly,1,147,47,330,2000
+disillu,Assembly,1,78,0,353,1994
+dissolution,Assembly,1,128,89,641,2003
+divinorum,Assembly,2,123,66,1481,2007
+dlhello,Visual Basic,1,12,0,41,2003
+dnl12,Assembly,1,24,30,295,2010
+dob,Assembly,1,147,26,889,2001
+duovit,Assembly,1,19,6,99,2005
+easter,Assembly,1,18,12,108,1998
+egalite,make,1,1,0,5,2005
+egalite,Assembly,1,3,1,300,2005
+ehomer,Assembly,1,24,30,89,1994
+elfinfect,Assembly,1,174,18,419,2003
+elsa,Assembly,1,90,29,545,2000
+elysium,Visual Basic,1,10,32,150,2004
+esenin,C++,2,13,25,133397,2005
+etymo-crypt,Assembly,1,148,60,501,2000
+examplo_lde,DOS Batch,1,0,0,4,2001
+examplo_lde,Assembly,1,162,116,397,2001
+fag,Assembly,6,293,17,838,2005
+fiasko,Assembly,1,144,19,670,1999
+firstborn,Assembly,1,79,71,390,2002
+fosforo,Assembly,1,1,457,1287,1999
+futhorca,Lisp,1,0,1,12,2003
+futhorcb,Lisp,1,0,1,13,2003
+fv,C,2,6,0,46,2004
+fv,make,1,6,0,13,2004
+fv,Fortran 77,1,0,3,59,2004
+gaara,Assembly,1,98,301,202,2007
+gibraltar_monkey,Assembly,1,176,32,331,2000
+gildo,Assembly,1,87,98,583,2004
+glaurung2k,Assembly,1,36,30,300,2000
+golem,Assembly,1,36,11,469,2009
+greenpeace,Assembly,1,57,13,811,1999
+gripa,Pascal,2,6,0,54,2005
+gripa,Assembly,5,94,26,470,2005
+gripa,make,1,0,0,7,2005
+h2t3,C,1,51,4,126,2008
+h2t3,Assembly,1,10,0,37,2008
+h2t3,C/C++ Header,1,3,5,11,2008
+h2t3,Bourne Shell,1,1,0,5,2008
+h2t3_bf,C,1,49,4,127,2008
+h2t3_bf,Assembly,1,10,0,37,2008
+h2t3_bf,C/C++ Header,1,3,5,9,2008
+h2t3_bf,Bourne Shell,1,1,0,5,2008
+h8urnmes,Assembly,1,162,48,467,1995
+halen,Assembly,1,46,94,821,2001
+harulf,Assembly,1,259,46,1223,2007
+hasher,make,1,4,0,14,2007
+hasher,Assembly,1,0,4,111,2007
+hatred,Assembly,1,160,552,2441,1999
+herderv,Assembly,1,138,94,358,2004
+hidrofobus,Pascal,1,15,13,185,2006
+hiewg,PHP,1,30,0,214,2009
+hiewg,Assembly,1,86,116,466,2009
+hiv,Assembly,1,347,131,2298,2000
+hllexmpl,Pascal,2,186,2,700,2000
+hooy,Pascal,1,8,0,75,2000
+hooy,DOS Batch,1,0,0,6,2000
+hooy,Assembly,1,56,14,237,2000
+hunatcha,C,1,13,13,137,2010
+hunatchab,C,1,23,38,277,2010
+hushabye,Windows Resource File,1,0,0,1,2007
+hushabye,Pascal,1,3,0,46,2007
+hushabye,Assembly,1,55,10,428,2007
+iamsick,C,1,27,22,122,2004
+iceheart,Assembly,1,51,7,227,1999
+idele,Assembly,1,722,107,923,2000
+ikee,C,1,32,59,335,2009
+impute,PHP,5,171,0,1152,2013
+impute,Assembly,6,769,1293,4516,2013
+inca,Assembly,1,137,192,2600,1998
+infancy,Assembly,1,45,154,366,2001
+infinite,Pascal,1,16,0,56,2000
+infinite,Assembly,1,160,180,612,2000
+isis,Assembly,1,162,109,693,2002
+ismiddle,Assembly,1,23,9,123,2000
+joss,make,1,5,2,21,2002
+joss,Assembly,1,61,3,352,2002
+joss,Windows Module Definition,1,4,0,7,2002
+juli,Assembly,1,24,30,277,2010
+kalamarai,Assembly,1,44,13,1038,2000
+keyhackbat,DOS Batch,1,22,0,119,2002
+knork,Assembly,1,68,36,453,1999
+kody,C,1,59,128,342,1999
+krized,Assembly,1,792,599,1413,1999
+lacrimae30,C,6,123,247,2441,2008
+lacrimae30,C/C++ Header,3,19,81,125,2008
+lacrimae30,make,1,9,0,39,2008
+legacy,Assembly,1,919,855,3902,1999
+leon,DOS Batch,2,1,0,8,2007
+leon,Assembly,9,338,345,2148,2007
+leon,C++,1,21,10,152,2007
+leviathan,Assembly,1,136,195,981,1999
+lildevil,Assembly,1,209,265,1280,2002
+littlepain,Windows Resource File,1,1,0,1,2000
+littlepain,C,4,53,35,203,2000
+littlepain,C/C++ Header,1,6,4,96,2000
+loki,C#,1,67,101,408,2006
+lotek,Assembly,1,36,74,129,2000
+ls,Assembly,1,174,22,662,2000
+lucius,Assembly,1,224,27,749,2007
+luna,Assembly,1,13,11,105,2010
+lychan,Assembly,1,52,77,150,2007
+m1,Assembly,1,258,15,723,1998
+machoman,Assembly,2,70,73,1144,2006
+manpage,C,1,27,15,103,1999
+mars2,Windows Resource File,1,3,0,30,2009
+mars2,C/C++ Header,1,25,0,337,2009
+mars2,Assembly,2,144,415,2006,2009
+matrix817,Assembly,1,17,19,385,2000
+merlin,Pascal,1,69,3,1594,2000
+metaphor1d,Assembly,1,1174,2437,13266,2004
+mimix,PHP,1,28,0,215,2008
+mimix,Assembly,3,444,516,2640,2008
+minir3b,Assembly,1,33,31,147,2002
+mutt,DOS Batch,1,0,0,3,2000
+mutt,Assembly,1,120,55,1132,2000
+n-xeram,Assembly,1,98,166,665,2004
+nemox,Assembly,1,121,162,318,2004
+netsky_ae,C/C++ Header,10,161,59,501,2004
+netsky_ae,HTML,1,290,15,931,2004
+netsky_ae,C++,7,269,72,1075,2004
+newstar4,C,10,74,16,830,2009
+newstar4,DOS Batch,1,0,0,10,2009
+newstar4,C/C++ Header,1,4,6,30,2009
+nf3ct0r,Bourne Shell,1,5,21,6,2004
+nf3ct0r,C/C++ Header,15,159,418,219,2004
+nf3ct0r,Assembly,1,5,0,21,2004
+nf3ct0r,C,3,19,26,54,2004
+nf3ct0r,Perl,1,8,0,45,2004
+nihilit,Visual Basic,1,27,24,352,2003
+nomov,Assembly,1,60,1,247,1999
+norther,Assembly,1,158,182,2080,2004
+nova,Assembly,1,28,31,246,2009
+nuxbee,Assembly,1,108,72,518,2002
+oldschool,Assembly,1,17,14,128,2007
+ordy,Assembly,1,62,14,352,2000
+orochi,Assembly,1,1792,293,1425,2000
+p-adic,Assembly,1,326,96,746,2002
+palmas,DOS Batch,1,0,0,276,2003
+paradoxon,Ruby,1,0,1,25,2004
+perseid,Assembly,1,26,12,210,2009
+pestilence,Pascal,1,4,0,12,2009
+pgpmorf1,Pascal,1,0,0,4,1998
+pgpmorf1,Assembly,1,470,96,1513,1998
+pica,Assembly,1,141,82,372,2001
+pirus,PHP,1,1,1,27,2000
+prc-ko,Assembly,1,61,117,417,2005
+probe,C,1,11,44,145,2001
+probeb,C,1,19,49,158,2001
+prometheus,Assembly,1,85,64,281,2006
+purplecat,Assembly,1,52,1,215,2008
+rapeme,C,3,136,122,296,2006
+rapeme,C/C++ Header,2,17,30,29,2006
+rce385,Assembly,1,7,165,219,1995
+regswap,DOS Batch,1,0,2,3,1999
+regswap,Assembly,1,36,66,720,1999
+reise,Assembly,1,19,23,206,2009
+relock,PHP,1,29,0,223,2007
+relock,Assembly,1,135,226,815,2007
+relx,C/C++ Header,8,81,131,1799,2009
+relx,Assembly,8,23,0,147,2009
+relx,make,5,28,0,69,2009
+relx,C,14,122,118,1573,2009
+relx,HTML,2,70,0,1126,2009
+relx,DOS Batch,1,0,0,1,2009
+relx,Bourne Shell,1,0,0,5,2009
+resvir1,Assembly,1,1,11,156,1993
+retal10,Pascal,2,363,349,6037,2014
+retal10,Assembly,1,370,533,3995,2014
+retv,Assembly,1,78,29,264,2008
+rit,Assembly,1,108,34,456,2008
+sabia,Windows Resource File,1,0,0,1,2000
+sabia,Pascal,3,41,4,108,2000
+sabia,DOS Batch,1,0,0,22,2000
+sabia,Assembly,4,980,169,2834,2000
+santy,Perl,1,63,1,158,2004
+segax,DOS Batch,1,3,0,8,2000
+segax,Assembly,1,54,6,330,2000
+seiryo,Assembly,1,104,119,753,2002
+sepboot,Assembly,1,21,2,162,1995
+shaitan,Assembly,1,135,105,683,1998
+siamexe,Assembly,1,65,49,275,2004
+siilov,C,1,104,54,745,1999
+silvio,C,1,35,29,160,1999
+simpleepo,C/C++ Header,1,3,0,20,2006
+simpleepo,C++,2,96,30,882,2006
+skipo,Windows Resource File,1,3,0,30,2009
+skipo,C/C++ Header,1,25,0,337,2009
+skipo,Assembly,7,302,1548,10330,2009
+spein,Assembly,2,145,23,665,2005
+spork,Assembly,2,126,108,690,2002
+start,Assembly,1,211,48,744,1998
+stutter,PHP,1,42,0,316,2007
+stutter,Assembly,2,179,122,1890,2007
+subsist,Visual Basic,1,0,1,6,2010
+subsist,Javascript,1,0,3,5,2010
+supervixen,Assembly,1,46,159,525,2014
+tereza,Assembly,1,129,157,633,2005
+thorin,Assembly,1,1131,1345,5341,1999
+tirannis,C,1,30,6,213,2005
+tirannis,Assembly,2,9,6,98,2005
+tirannis,C/C++ Header,3,23,10,145,2005
+tirannis,make,1,5,0,10,2005
+tlb,C,6,101,124,572,2000
+tlb,C/C++ Header,1,4,4,13,2000
+totaltrash,HTML,1,15,0,79,1996
+totaltrash,Assembly,1,458,335,959,1996
+tp_com,Pascal,2,67,0,251,1997
+tp_com,DOS Batch,1,0,0,3,1997
+tp_com,Assembly,1,6,0,14,1997
+trick,Assembly,1,18,14,223,1997
+triplix,Assembly,1,113,75,547,2003
+tristesse,Assembly,1,196,122,567,2004
+trivial_1,Pascal,1,10,3,17,2001
+tunderbyte,Assembly,1,29,7,570,1992
+valium,Visual Basic,1,58,133,530,2005
+vera,Windows Resource File,1,3,0,1,2007
+vera,Assembly,1,197,134,1648,2007
+vit,C,8,226,62,1630,1999
+vit,Assembly,1,3,0,8,1999
+vit,make,1,11,4,24,1999
+vlpi,C,4,98,113,438,1997
+vlpi,C/C++ Header,1,6,1,23,1997
+voodoo,Assembly,1,11,39,766,1999
+vulcano,Assembly,1,169,205,2311,1999
+w9x-tiny,Assembly,28,1367,419,3202,2000
+weird,Windows Resource File,2,17,0,90,1999
+weird,C,12,705,738,2517,1999
+weird,Assembly,2,154,228,598,1999
+weird,C/C++ Header,4,16,1,68,1999
+winux,Assembly,1,111,134,758,2001
+woolien,C,1,28,15,96,2002
+woolien,C/C++ Header,1,0,0,1,2002
+wormlabs,C++,1,28,98,296,2010
+wormwood,Assembly,1,39,0,250,2001
+xtail,DOS Batch,1,0,0,6,2008
+xtail,Assembly,1,103,255,583,2008
+yelet,Assembly,1,227,61,724,1998
+yildiz,Assembly,1,89,39,208,2000
+yonggary,Assembly,1,146,130,863,2001
+z0mbie1,Pascal,1,1179,0,4073,1997
+z0mbie1,DOS Batch,1,0,0,1,1997
+z0mbie1,Assembly,1,179,52,545,1997
+z0mbie1,Windows Module Definition,1,6,1,7,1997
+z0mbie10,Pascal,3,69,0,467,2001
+z0mbie10,DOS Batch,2,0,0,8,2001
+z0mbie10,Assembly,3,137,56,469,2001
+z0mbie10b,Pascal,2,49,0,295,2001
+z0mbie10b,DOS Batch,1,0,0,4,2001
+z0mbie10b,Assembly,1,99,69,333,2001
+z0mbie10c,Pascal,2,49,0,295,2001
+z0mbie10c,DOS Batch,4,0,0,16,2001
+z0mbie10c,Assembly,3,161,85,1000,2001
+z0mbie10c,C/C++ Header,4,32,23,189,2001
+z0mbie10c,C++,9,321,79,1654,2001
+z0mbie10d,C/C++ Header,4,32,23,189,2001
+z0mbie10d,Assembly,5,269,107,1556,2001
+z0mbie10d,C++,10,336,100,1697,2001
+z0mbie10d,Pascal,2,49,0,295,2001
+z0mbie10d,HTML,1,1,0,187,2001
+z0mbie10d,DOS Batch,7,0,0,30,2001
+z0mbie2,DOS Batch,1,0,0,13,1998
+z0mbie2,Assembly,1,572,174,1629,1998
+z0mbie3,Assembly,1,93,55,197,1999
+z0mbie4,Pascal,1,11,0,158,1999
+z0mbie4,DOS Batch,1,0,0,4,1999
+z0mbie4,Assembly,1,119,46,269,1999
+z0mbie4b,Pascal,1,11,0,158,1999
+z0mbie4b,DOS Batch,1,0,0,4,1999
+z0mbie4b,Assembly,1,138,52,322,1999
+z0mbie4c,Pascal,3,95,0,488,1999
+z0mbie4c,DOS Batch,1,0,0,16,1999
+z0mbie4c,Assembly,1,160,62,431,1999
+z0mbie4d,Pascal,1,6,0,79,2000
+z0mbie4d,DOS Batch,1,0,0,5,2000
+z0mbie4d,Assembly,1,67,18,178,2000
+z0mbie5,C/C++ Header,1,9,8,31,2000
+z0mbie5,Assembly,2,261,81,665,2000
+z0mbie5,C++,3,102,83,589,2000
+z0mbie5,Pascal,2,17,0,92,2000
+z0mbie5,HTML,1,7,0,153,2000
+z0mbie5,DOS Batch,4,0,0,28,2000
+z0mbie6a,Pascal,1,2,0,21,2000
+z0mbie6a,DOS Batch,2,0,0,16,2000
+z0mbie6a,Assembly,1,25,8,55,2000
+z0mbie6b,Pascal,2,59,0,430,2000
+z0mbie6b,DOS Batch,2,0,0,16,2000
+z0mbie6b,Assembly,1,31,2,77,2000
+z0mbie6b,C++,1,35,29,167,2000
+z0mbie7,Pascal,1,2,0,21,2000
+z0mbie7,DOS Batch,2,0,0,16,2000
+z0mbie7,Assembly,1,27,9,50,2000
+z0mbie8,Pascal,1,4,0,75,2000
+z0mbie8,DOS Batch,1,0,0,6,2000
+z0mbie8,Assembly,1,53,17,170,2000
+zhello,Assembly,1,245,12,882,1998
+zhengxi,Pascal,4,20,0,197,1995
+zhengxi,Assembly,12,533,704,3595,1995
+zhengxi,make,1,5,7,24,1995
+zipworm,Assembly,2,33,25,578,2000
+zipworm,Bourne Shell,1,3,0,4,2000
+Zombie.32,Assembly,1,17,15,24,1999
+zorm,Assembly,1,162,136,574,1998
+zymosis,Assembly,7,435,420,1606,2007
