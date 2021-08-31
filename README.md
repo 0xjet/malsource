@@ -7,6 +7,7 @@ This repository contains the dataset described in the paper:
 
 * A. Calleja, J. Tapiador, and J. Caballero. "The MalSource Dataset: Quantifying Complexity and Code Reuse in Malware Development." _IEEE Transactions on Information Forensics and Security_, Vol 14, No. 12, pp. 3175-3190, 2018. [[pdf](https://arxiv.org/pdf/1811.06888.pdf)]
 \
+\
 **Abstract**
   > In this paper, we analyze the evolution of malware from 1975 to date from a software engineering perspective. We analyze the source code of 456 samples from 428 unique families and obtain measures of their size, code quality, and estimates of the development costs (effort, time, and number of people). Our results suggest an exponential increment of nearly one order of magnitude per decade in aspects such as size and estimated effort, with code quality metrics similar to those of benign software. We also study the extent to which code reuse is present in our dataset. We detect a significant number of code clones across malware families and report which features and functionalities are more commonly shared. Overall, our results support claims about the increasing complexity of malware and its production progressively becoming an industry.
 
